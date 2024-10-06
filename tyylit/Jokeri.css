@@ -1,0 +1,45 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f0f0f0; 
+    text-align: center; 
+}
+
+h3 {
+    color: #333; 
+}
+
+button {
+    background-color: #b9b8b8; 
+    color: #0e0e0e; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+
+button:hover {
+    background-color: #696969; 
+}
+
+table {
+    margin: 20px auto; 
+    border-collapse: separate; 
+    border-spacing: 10px;
+    width: 10%; 
+}
+
+th, td {
+    border: 1px solid black; 
+    padding: 10px; 
+    text-align: center; 
+    background-color: #FFE4B5; 
+    width: 30px; 
+}
+
+p {
+    font-size: 1.2em; 
+    color: #555; 
+}
+
+
+
